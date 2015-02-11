@@ -18,7 +18,7 @@
 	text-decoration: none;
 	font-size: 1.2em;
 	text-transform: uppercase;
-	margin-bottom:5px;
+	margin-bottom:3px;
 }
 
 
@@ -34,4 +34,7 @@
 	height: 150px;
 	padding: 20px;
 	overflow-y:scroll;
+}
+.acc-header:hover{
+background:#00daec;
 }
