@@ -26,7 +26,6 @@
 	padding:0;
 	height:0;
 	overflow:hidden;
-	-webkit-transition:height 400ms ease;
 	transition:height 400ms ease;
 
 
